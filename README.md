@@ -3,4 +3,4 @@ A simple traffic light control for pedestrians that extends the stop time for ca
 
 It was made using atmega32.
 
-![](Screenshot 2022-10-01%20153420.jpg)
+![]()
